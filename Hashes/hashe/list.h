@@ -1,6 +1,6 @@
 
 //  Created by Leo Silva on 9/15/18.
-//  Copyright © 2018 Lee Barney. All rights reserved.
+//  
 //
 
 #ifndef list_hpp
@@ -320,7 +320,7 @@ namespace custom { // because I am creating my onw list I need to have my own
                     insertBeforeIt.ptr->pPrev->pNext = newNode;
                     insertBeforeIt.ptr->pPrev = newNode;
                     return iterator(newNode);
-        } 
+        }
 
         class iterator{
 #ifdef UNIT_TESTING
@@ -473,3 +473,4 @@ namespace custom { // because I am creating my onw list I need to have my own
 #endif /* list_h */
     
     
+

@@ -2,8 +2,8 @@
 //  node_delete.h
 //  junk
 //
-//  Created by Lee Barney on 10/20/18.
-//  Copyright © 2018 Lee Barney. All rights reserved.
+//  Created by LeoCoelho
+//
 //
 
 #ifndef unit_testing_delete_h

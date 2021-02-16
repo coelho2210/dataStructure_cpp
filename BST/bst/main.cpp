@@ -11,9 +11,8 @@
  * your data structure code passed.
  */
 #define UNIT_TESTING
-//Do not change the next line without instructor approval.
-//To do so is cheating and, when found, will result in consequences.
-int asserts_existing = 397; //one line removed from code do to errors in the test. Talked to Brother Barney about this.
+
+int asserts_existing = 397; //one line removed from code do to errors in the test. 
 
 #include <iostream>
 #include "unit_testing.h"
